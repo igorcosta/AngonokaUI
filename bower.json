@@ -1,0 +1,31 @@
+{
+  "name": "AngonokaUI",
+  "version": "0.0.1",
+  "homepage": "https://github.com/igorcosta/AngonokaUI",
+  "authors": [
+    "igorcosta <igorcosta@riacycle.com>"
+  ],
+  "description": "A set of Directives for modern Web Apps based on AngularJS directives\"",
+  "main": "angonokaui",
+  "keywords": [
+    "angonokaui",
+    "angonokai",
+    "ui",
+    "ui",
+    "angular",
+    "angonokaui",
+    "webcomponents",
+    "web-components"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "less": "~1.7.0"
+  }
+}
