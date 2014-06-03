@@ -5,6 +5,7 @@
  - [Quick start](#quick-start)
  - [Bugs and feature requests](#bugs-and-feature-requests)
  - [Documentation](#documentation)
+ - [Bower install](#bowerinstall)
  - [Compiling CSS and JavaScript](#compiling-css-and-javascript)
  - [Contributing](#contributing)
  - [Community](#community)
